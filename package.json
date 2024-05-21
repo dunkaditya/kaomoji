@@ -1,0 +1,24 @@
+{
+  "name": "homework04-dunkaditya",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyu-csci-ua-0467-001-002-spring-2022/homework04-dunkaditya.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0467-001-002-spring-2022/homework04-dunkaditya/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0467-001-002-spring-2022/homework04-dunkaditya#readme",
+  "devDependencies": {
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.15"
+  }
+}

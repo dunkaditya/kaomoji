@@ -1,2 +1,1 @@
-# kaomoji
-Implementation of kaomoji translater in javascript.
+# homework-04

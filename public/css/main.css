@@ -1,0 +1,30 @@
+* {color: #4a5763; background-color: #deb887;}
+body {
+    padding: 5%;
+}
+a:link {
+    text-decoration: none;
+  }
+h2 {
+    text-align: right;
+}
+form {
+    padding-top:1%;
+    padding-bottom:1%;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #666666;
+}
+  
+td, th {
+    border: 1px solid #666666;
+    text-align: center;
+    padding: 8px;
+}
+
+  
+/* tr:nth-child(even) {
+    background-color: #dddddd;
+} */
